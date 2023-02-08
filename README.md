@@ -17,7 +17,7 @@ Microsoft Teams는 교육에 필요한 모든 것을 연결하는 디지털 허�
 
  ### Microsoft School Data Sync
  SDS를 통해 온라인 강의실이 구성되고 구성 속성과 함께 디지털 학습활동이 SDS Data Lake 저장됩니다.
- SDS Data Lake 에 저장된 정보를 Education Data Lake에 통합하여 학생들의 디지털 학습활동을 분석할 수 있습니다.
+ SDS Data Lake 에 저장된 정보를 Education Data Lake에 누적하여 학생들의 디지털 학습활동을 분석할 수 있습니다.
  ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
  
  ### Open Education Analytics
